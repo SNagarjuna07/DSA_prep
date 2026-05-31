@@ -12,5 +12,8 @@ public class EvenOdd {
         int n = 6;
 
         System.out.println(isEven(n));
+
+        System.out.println(Integer.toBinaryString(45));
+        System.out.println(Integer.toBinaryString(44));
     }
 }
